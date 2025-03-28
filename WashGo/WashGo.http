@@ -1,0 +1,6 @@
+@WashGo_HostAddress = http://localhost:5198
+
+GET {{WashGo_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
